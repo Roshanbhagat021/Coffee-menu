@@ -4,3 +4,6 @@ console.log(a+b)
 
 
 // this is my second commit on this filef
+
+
+console.log(a*b)
